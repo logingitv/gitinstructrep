@@ -5,7 +5,7 @@
 1. [Установка GIT](./installgit.md) 
 2. [Терминал для ввода комманд GIT](./terminalgit.md)
 3. [Github](./Github.md)
-4. [Добавление файла .gitignore](./gitignore.md)
+4. [Добавление файла .gitignore](./gitignorefile.md)
 5. [Настройка GIT](./setgit.md)
 6. [Создание репозитория GIT](./repgit.md)
 7. [Основные команды GIT](./basiccommand.md)
