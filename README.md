@@ -10,7 +10,7 @@
 6. [Создание репозитория GIT](./repgit.md)
 7. [Основные команды GIT](./basiccommand.md)
 8. [Ветки в GIT](./branchgit.md)
-9. [Расширенные команды GIT]()
+9. [Различия merge и rebase](./mergerebase.md)
 
 #### История создания GIT
 
